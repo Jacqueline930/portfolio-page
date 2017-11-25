@@ -1,0 +1,20 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/46/05/35/46053584752c9cf058e9b52d876dcf4b.jpg");
+}
+h1 {
+  color: #00ffff
+}
+.title {
+  color: #66ffff
+  font-size: 18px;
+  font-style: italic;
+  text-align: center;
+  text-decoration: overline;
+}
+p {
+  color:  #003399
+
+}
+.intro {
+  color: #f2f2f2
+}
